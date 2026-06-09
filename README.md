@@ -6,6 +6,6 @@ Type Mode:
 1.Encode
 2.Decode.
 
-After, type what do need to encode/decode.
+After, type what you need to encode/decode.
 
 Done!
